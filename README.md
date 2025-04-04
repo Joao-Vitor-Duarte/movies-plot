@@ -22,8 +22,6 @@
 :warning: [Node](https://nodejs.org/en/download/)
 :warning: [API KEY](http://www.omdbapi.com/apikey.aspx)
 
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
-
 ## Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
