@@ -47,7 +47,5 @@ ex:(http://localhost:3000/movie/search?movie=inception)
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Liste o time responsável pelo desenvolvimento do projeto
-
 | [<img src="https://avatars.githubusercontent.com/u/37213988?s=400&u=9acf66eea765acfcc816aa8e966f3840c13b77fb&v=4" width=115><br><sub>João Vitor</sub>](https://github.com/Joao-Vitor-Duarte) | 
 | :---: |
