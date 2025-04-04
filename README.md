@@ -1,23 +1,9 @@
 <h1>Sinopse de Filmes</h1> 
 
 <p align="center">
- <img alt="Static Badge" src="https://img.shields.io/badge/Node.Js-22.13.1-%2384C00B?style=for-the-badge&logo=nodedotjs&logoSize=auto&labelColor=%23555555">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Node.Js-22.13.1-%2384C00B?style=for-the-badge&logo=nodedotjs&logoSize=auto&labelColor=%23555555">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
-
-### Tópicos 
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
-... 
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto 
 
